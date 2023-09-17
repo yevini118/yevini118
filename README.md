@@ -3,8 +3,6 @@
 
 
 ### - Used
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevini118&layout=compact)](https://github.com/yevini118/github-readme-stats) 
 
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -28,6 +26,8 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevini118&layout=compact)](https://github.com/yevini118/github-readme-stats) 
  </div>
   </div>
   </div>
