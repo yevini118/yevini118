@@ -1,8 +1,8 @@
-### 📌Blog
+### - Blog
 <a href="링크"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
-### 📌Used
+### - Used
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevini118&layout=compact)](https://github.com/yevini118/github-readme-stats) 
 
