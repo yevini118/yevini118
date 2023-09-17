@@ -1,12 +1,15 @@
-### Hi!😺
+# Hi!😺
 
-안녕하세요! 자바 백엔드 개발자 yevini입니다.
-만들고자 하는것을 구현하며 즐겁게 지식을 넓혀가고있습니다.
+> 자바 백엔드 개발자 입니다.
+> 
+> 만들고자 하는것을 구현하며 즐겁게 지식을 넓혀가고있습니다.
 
-#### Blog
+<br>
+
+## Blog
 <a href="링크"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-#### Used
+## Used
 
 <div>
 
