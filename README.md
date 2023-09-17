@@ -1,10 +1,12 @@
-### - Blog
+#### Blog
 <a href="링크"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
+#### Used
 
-### - Used
+<div>
 
-<div style="display:flex;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevini118&layout=compact)](https://github.com/yevini118/github-readme-stats) 
+  
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>    
@@ -19,7 +21,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/>
   <br>
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevini118&layout=compact)](https://github.com/yevini118/github-readme-stats) 
+  
  </div>
   </div>
   </div>
